@@ -4,6 +4,7 @@
 
 @section('contenu')
     <div class="container mb-6">
+        <h1 class="text-center">Bienvenue sur votre site universitaire</h1>
         <div class="row justify-content-center mb-6">
             <div class="col-md-6">
                 <a href="{{ route('home') }}"><button class="btn btn-primary mb-4">Page principale</button></a>
