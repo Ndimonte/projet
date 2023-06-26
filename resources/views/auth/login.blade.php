@@ -4,7 +4,7 @@
 
 @section('contenu')
     <div class="container mt-5">
-        <h1 class="text-center">Bienvenue sur votre site universitaire</h1>
+        <h1 class="text-center mb-5">Bienvenue sur votre site universitaire</h1>
         <div class="row justify-content-center">
             <div class="col-md-6">
                 <div class="card">
