@@ -3,7 +3,8 @@
 @section('title', 'Connexion')
 
 @section('contenu')
-    <div class="container">
+    <div class="container mt-5">
+        <h1 class="text-center">Bienvenue sur votre site universitaire</h1>
         <div class="row justify-content-center">
             <div class="col-md-6">
                 <div class="card">
