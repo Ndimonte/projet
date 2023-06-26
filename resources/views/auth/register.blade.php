@@ -3,11 +3,10 @@
 @section('title', 'Inscription')
 
 @section('contenu')
-    <div class="container mb-6">
-        <h1 class="text-center">Bienvenue sur votre site universitaire</h1>
+    <div class="container  mt-5">
+        <h1 class="text-center mb-5">Bienvenue sur votre site universitaire</h1>
         <div class="row justify-content-center mb-6">
             <div class="col-md-6">
-                <a href="{{ route('home') }}"><button class="btn btn-primary mb-4">Page principale</button></a>
                 <div class="card">
                     <div class="card-header">
                         <h2 class="card-title mb-4 text-center">Inscrivez-vous !</h2>
